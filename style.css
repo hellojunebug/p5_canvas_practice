@@ -1,0 +1,34 @@
+
+.item-container {
+  display: flex;
+  height: 400px;
+  width: 100%;
+  border: 2px solid red;
+}
+
+#fullsize-canvas-resize {
+  width: 100%;
+  height: 100%;
+}
+
+#centerByCSS {
+  justify-content: center;
+  align-items: center;
+}
+
+#center-canvas-programmatic {
+  height: 100%;
+  width: 100%;
+}
+
+#center-canvas {
+  height: 100px;
+  width: 100px;
+}
+
+
+
+canvas {
+  display: block;
+  height: 400px
+}
